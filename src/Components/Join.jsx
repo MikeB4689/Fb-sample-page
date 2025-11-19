@@ -17,7 +17,6 @@ import image14 from "../Assets/discourdimg/ee1cfd117e15148d483f45cbd29435c4028a9
 import image15 from "../Assets/discourdimg/f43297de34b628d364a97acf44ce9588cae99cd3.jpg";
 import image16 from "../Assets/discourdimg/f43297de34b628d364a97acf44ce9588cae99cd3.jpg";
 import image17 from "../Assets/discourdimg/f7f9a2edcd9aa9da809b6f98a2acc0cfc87e8a78.jpg";
-import { img } from "motion/react-client";
 
 export const Join = () => {
   const imagepotrait = [
