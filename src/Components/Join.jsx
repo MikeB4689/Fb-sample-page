@@ -60,7 +60,7 @@ export const Join = () => {
           <div className="memberContainer">
             <div className="imageContainer">
               {imagepotrait.map((members, id) => (
-                <img src={members} />
+                <img src={members} alt="members" />
               ))}
             </div>
 
