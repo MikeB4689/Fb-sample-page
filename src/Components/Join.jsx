@@ -79,16 +79,16 @@ export const Join = () => {
           <div className="imageTitleHolder">
             <div className="imageHolder">
               {imagepotrait.map((items, id) => (
-                <img src={items} />
+                <img src={items} alt="items" />
               ))}
               {imagepotrait.map((items, id) => (
-                <img src={items} />
+                <img src={items} alt="items" />
               ))}
               {imagepotrait.map((items, id) => (
-                <img src={items} />
+                <img src={items} alt="items" />
               ))}
               {imagepotrait.map((items, id) => (
-                <img src={items} />
+                <img src={items} alt="items" />
               ))}
             </div>
             <div className="title">

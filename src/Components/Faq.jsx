@@ -1,4 +1,3 @@
-import { li } from "motion/react-client";
 import { useState } from "react";
 
 import { RiBookShelfLine } from "react-icons/ri";
