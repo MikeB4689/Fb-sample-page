@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Fb-sample-page/static/css/main.1ac29c7c.css",
+    "main.js": "/Fb-sample-page/static/js/main.1538a220.js",
+    "static/media/7b952a29.png": "/Fb-sample-page/static/media/024dfeae1c6a446aa962f1a21f63779f7b952a29.dc61fbff6ced59bd6626.png",
+    "static/media/75494183.png": "/Fb-sample-page/static/media/f2fdba9707a14d061f087a1444e707fc75494183.4ecbde37867fa0539e85.png",
+    "static/media/52f7f687.png": "/Fb-sample-page/static/media/20896a0df1699ec5529740d07e264ab052f7f687.6f74e932c4c677d9565d.png",
+    "static/media/31a40bd5 (1).jpg": "/Fb-sample-page/static/media/257298ca6d7d85f29b95142a1dd0618b31a40bd5 (1).3eceadac3eba2007aa99.jpg",
+    "static/media/19cf0ab4.jpg": "/Fb-sample-page/static/media/75c80f337ad5301b4cfed7b6e8feb92419cf0ab4.665d06082518c5568381.jpg",
+    "static/media/b1a41350.jpg": "/Fb-sample-page/static/media/1019458bfdf444d8dff15c2fc6850a4db1a41350.fc4c30ebbe024954d843.jpg",
+    "static/media/028a9f33.jpg": "/Fb-sample-page/static/media/ee1cfd117e15148d483f45cbd29435c4028a9f33.91f380386253717ff449.jpg",
+    "static/media/d067628f.jpg": "/Fb-sample-page/static/media/1db33b457d5f9f88bf094c592380ac29d067628f.3891d40a68a3c00f44f7.jpg",
+    "static/media/1698156e.jpg": "/Fb-sample-page/static/media/cac0f766ab9fa613e4017f091fd74bbf1698156e.9ed1449416d6cb2582c3.jpg",
+    "static/media/f5407904.jpg": "/Fb-sample-page/static/media/8f3b1b441c3aaa9f3b84f5dba7535d31f5407904.763e6d099c20d81859d2.jpg",
+    "static/media/052a82dc.jpg": "/Fb-sample-page/static/media/211c94ebfa423bf6b0633196d0cfb809052a82dc.24a36175ac34bdb3c109.jpg",
+    "static/media/cae99cd3.jpg": "/Fb-sample-page/static/media/f43297de34b628d364a97acf44ce9588cae99cd3.7d6e2e21ba8b1d46570a.jpg",
+    "static/media/bca3ca5e.jpg": "/Fb-sample-page/static/media/d781a1f3c594eef36e8b4a3f37a17de4bca3ca5e.760c11453293fb67d933.jpg",
+    "static/media/ad826041.jpg": "/Fb-sample-page/static/media/7a18e69eca34ee41b570f1948b4e8373ad826041.30b9f731618fcb4b23a9.jpg",
+    "static/media/72056f41.jpg": "/Fb-sample-page/static/media/38568d6f44399b1e418e0aaef55867cc72056f41.55b3c33e7fa0cfd57c41.jpg",
+    "static/media/68f1ef28.jpg": "/Fb-sample-page/static/media/4cec8417db9985eb5457bd0fd5b5df6068f1ef28.a0c44ae00836755c5da4.jpg",
+    "static/media/19660a68.jpg": "/Fb-sample-page/static/media/90d900439b454ebefe155c5d673dd0b819660a68.c857fa73756fcfbb2b69.jpg",
+    "static/media/c87e8a78.jpg": "/Fb-sample-page/static/media/f7f9a2edcd9aa9da809b6f98a2acc0cfc87e8a78.e9ab52e87766d81b08d3.jpg",
+    "static/media/9ecd8b85.jpg": "/Fb-sample-page/static/media/ad0c3b1463f2be655a80047a23ce53859ecd8b85.8064ed419e763a794dd7.jpg",
+    "index.html": "/Fb-sample-page/index.html",
+    "main.1ac29c7c.css.map": "/Fb-sample-page/static/css/main.1ac29c7c.css.map",
+    "main.1538a220.js.map": "/Fb-sample-page/static/js/main.1538a220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac29c7c.css",
+    "static/js/main.1538a220.js"
+  ]
+}
